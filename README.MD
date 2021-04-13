@@ -7,4 +7,4 @@ A npm package that turns your JSON file to JS code.
 ```
 
 # How to use it:
-json-script --json <json location> --js <where to write js file>
+json-scripter --json <json location> --js <where to write js file>
