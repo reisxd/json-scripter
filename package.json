@@ -1,5 +1,5 @@
 {
-  "name": "json-script",
+  "name": "json-scripter",
   "version": "1.0.0",
   "description": "A npm package that turns your JSON file to JS code.",
   "main": "index.js",
@@ -15,5 +15,16 @@
     "js"
   ],
   "author": "reis",
-  "license": "MIT"
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reisxd/json-scripter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/reisxd/json-scripter/issues"
+  },
+  "homepage": "https://github.com/reisxd/json-scripter#readme"
 }
